@@ -1,0 +1,13 @@
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\bin\Debug\TelegramBot.exe.config
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\bin\Debug\TelegramBot.exe
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\bin\Debug\TelegramBot.pdb
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\bin\Debug\Telegram.Bot.dll
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\bin\Debug\Telegram.Bot.xml
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.csprojAssemblyReference.cache
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.csproj.CopyComplete
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.exe
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.pdb
+C:\Users\ilyas\source\repos\TelegramBot\TelegramBot\bin\Debug\ApiAiSDK.dll
